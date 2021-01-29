@@ -32,6 +32,7 @@ filegroup(
         "//staging/src/k8s.io/apimachinery/pkg/api/apitesting/fuzzer:all-srcs",
         "//staging/src/k8s.io/apimachinery/pkg/api/apitesting/naming:all-srcs",
         "//staging/src/k8s.io/apimachinery/pkg/api/apitesting/roundtrip:all-srcs",
+        "//staging/src/k8s.io/apimachinery/pkg/api/apitesting/validationtesting:all-srcs",
     ],
     tags = ["automanaged"],
 )
